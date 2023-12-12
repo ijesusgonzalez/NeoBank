@@ -1,3 +1,2 @@
 # NeoBank
-Project made for analysis on NeoBank dataset.
-.
+Driving Customer Value by Behaviour Segmentation.
